@@ -1,0 +1,15 @@
+[package]
+name = "vec-string"
+version = "0.1.0"
+edition = "2018"
+authors = ["Cody Bloemhard <codybloemhard@gmail.com>"]
+description = "To print Vec<Display>."
+license = "GPL-3.0"
+readme = "README.md"
+repository = "https://github.com/ocdy1001/vec-string"
+keywords = ["vec","string"]
+categories = ["util"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
