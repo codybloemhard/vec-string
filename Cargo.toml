@@ -1,12 +1,12 @@
 [package]
 name = "vec-string"
-version = "0.2.0"
-edition = "2018"
+version = "0.2.1"
+edition = "2021"
 authors = ["Cody Bloemhard <codybloemhard@gmail.com>"]
 description = "To print Vec<Display>."
 license = "GPL-3.0"
 readme = "README.md"
-repository = "https://gitlab.com/codybloemhard/vec-string"
+repository = "https://github.com/codybloemhard/vec-string"
 keywords = ["vec","string"]
 categories = ["util"]
 
